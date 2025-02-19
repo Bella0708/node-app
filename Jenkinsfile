@@ -6,7 +6,7 @@ pipeline {
         REPO = "zabella/node-app"
         DOCKER_IMAGE = 'node-app'
         DOCKER_TAG = 'latest'
-        HOST = "3.94.85.77"
+        HOST = "107.23.8.225"
         SVC = "zansulu"
         PORT = "3000"
     }
